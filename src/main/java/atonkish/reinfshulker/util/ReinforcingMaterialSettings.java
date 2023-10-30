@@ -45,7 +45,7 @@ public enum ReinforcingMaterialSettings {
                     .strength(2.0F, 6.0F)
                     .sounds(BlockSoundGroup.METAL),
             new Item.Settings()),
-    NETHERITE(ReinforcedCoreRegistry.registerReinforcingMaterial("netherite", 108, Items.NETHERITE_INGOT),
+    NETHERITE(ReinforcedCoreRegistry.registerReinforcingMaterial("netherite", 144, Items.NETHERITE_INGOT),
             FabricBlockSettings
                     .create()
                     .strength(2.0F, 1200.0F)
