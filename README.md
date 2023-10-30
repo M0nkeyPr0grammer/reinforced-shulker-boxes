@@ -7,7 +7,7 @@
 [![Modrinth](https://img.shields.io/modrinth/dt/xlOwuSdN?color=%2300AF5C&logo=modrinth)](https://modrinth.com/mod/reinforced-shulker-boxes)
 [![MIT License](https://img.shields.io/static/v1?label=licence&message=MIT&color=blue)](./LICENSE)
 
-# Reinforced Shulker Boxes
+# Reinforced Shulker Boxes adjusted by M0nkeyPr0grammer
 
 The Reinforced Shulker Boxes mod adds reinforced shulker boxes.
 
@@ -26,7 +26,7 @@ The Reinforced Shulker Boxes mod adds reinforced shulker boxes.
 | Iron Shulker Box      | Shaped Crafting | Copper Shulker Box + Iron Ingot       | <img alt="Iron Shulker Box Recipe" src="./images/recipes/iron_shulker_box.png" width="256" />                    | An iron shulker box has 54 inventory slots.                                                 |
 | Gold Shulker Box      | Shaped Crafting | Iron Shulker Box + Gold Ingot         | <img alt="Gold Shulker Box Recipe" src="./images/recipes/gold_shulker_box.png" width="256" />                    | A gold shulker box has 81 inventory slots.                                                  |
 | Diamond Shulker Box   | Shaped Crafting | Gold Shulker Box + Diamond            | <img alt="Diamond Shulker Box Recipe" src="./images/recipes/diamond_shulker_box.png" width="256" />              | A diamond shulker box has 108 inventory slots.                                              |
-| Netherite Shulker Box | Smithing        | Diamond Shulker Box + Netherite Ingot | <img alt="Netherite Shulker Box Recipe" src="./images/recipes/netherite_shulker_box_smithing.png" width="256" /> | A netherite shulker box has 108 inventory slots. This is resistant to blast, fire and lava. |
+| Netherite Shulker Box | Smithing        | Diamond Shulker Box + Netherite Ingot | <img alt="Netherite Shulker Box Recipe" src="./images/recipes/netherite_shulker_box_smithing.png" width="256" /> | A netherite shulker box has 144 inventory slots. This is resistant to blast, fire and lava. |
 
 ### Crafting from [Reinforced Chests](https://github.com/Aton-Kish/reinforced-chests)
 
