@@ -1,10 +1,5 @@
 ![Reinforced Shulker Boxes](./images/header.png)
 
-[![Mod Loader: Fabric](https://img.shields.io/static/v1?label=modloader&message=fabric&color=brightgreen)](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
-![Mod Environment](https://img.shields.io/static/v1?label=environment&message=client%2Fserver&color=yellow)
-![Version](https://cf.way2muchnoise.eu/versions/529874.svg)
-[![CurseForge](https://cf.way2muchnoise.eu/529874.svg)](https://www.curseforge.com/minecraft/mc-mods/reinforced-shulker-boxes)
-[![Modrinth](https://img.shields.io/modrinth/dt/xlOwuSdN?color=%2300AF5C&logo=modrinth)](https://modrinth.com/mod/reinforced-shulker-boxes)
 [![MIT License](https://img.shields.io/static/v1?label=licence&message=MIT&color=blue)](./LICENSE)
 
 # Reinforced Shulker Boxes adjusted by M0nkeyPr0grammer
@@ -15,8 +10,8 @@ The Reinforced Shulker Boxes mod adds reinforced shulker boxes.
 
 ## Reinforced Storage Mod Series
 
-- [Reinforced Chests](https://github.com/Aton-Kish/reinforced-chests)
-- [Reinforced Barrels](https://github.com/Aton-Kish/reinforced-barrels)
+- [Upgraded Chests](https://github.com/M0nkeyPr0grammer/upgraded-chests)
+- [Upgraded Barrels](https://github.com/M0nkeyPr0grammer/upgraded-barrels)
 
 ## Recipe
 
@@ -46,33 +41,6 @@ The Reinforced Shulker Boxes mod adds reinforced shulker boxes.
 
 Dyed reinforced shulker boxes can be undyed using a cauldron.
 
-## Configure
-
-[The Reinforced Core lib](https://github.com/Aton-Kish/reinforced-core) has been integrated with [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) since version 3.0.0.
-
-![Mod Menu](./images/modmenu/modmenu.png)
-
-### Screen Type
-
-_Available in Reinforced Shulker Boxes mod version 2.1.0+._
-
-Screen type is `SINGLE` or `SCROLL`. (default: `SINGLE`)
-
-| `SINGLE` screen                               | `SCROLL` screen                                |
-| --------------------------------------------- | ---------------------------------------------- |
-| ![Single Screen](./images/modmenu/single.png) | ![Scroll Screen](./images/modmenu/scroll6.png) |
-
-### Scroll Screen
-
-#### Rows
-
-_Available in Reinforced Shulker Boxes mod version 2.1.0+._
-
-Rows is an integer in the range from `6` to `9`. (default: `6`)
-
-| Rows: `6`                                              | Rows: `9`                                              |
-| ------------------------------------------------------ | ------------------------------------------------------ |
-| ![Scroll Screen: 6 rows](./images/modmenu/scroll6.png) | ![Scroll Screen: 9 rows](./images/modmenu/scroll9.png) |
 
 ## License
 
