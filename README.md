@@ -1,5 +1,5 @@
 ![Reinforced Shulker Boxes](./images/header.png)
-test
+
 [![MIT License](https://img.shields.io/static/v1?label=licence&message=MIT&color=blue)](./LICENSE)
 
 # Reinforced Shulker Boxes adjusted by M0nkeyPr0grammer
